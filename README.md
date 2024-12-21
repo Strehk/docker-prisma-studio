@@ -4,6 +4,10 @@ Access Prisma Studio securely through your web browser.
 
 Share multiple database environments' access with colleagues. Deployed via Traefik for global access.
 
+## 🍴 Fork
+
+This is a Fork of [this Repo by timothymiller](https://github.com/timothymiller/docker-prisma-studio/tree/main), which does not seem to be maintained anymore.
+
 ## 📊 Stats
 
 | Size  | Downloads | Discord |
