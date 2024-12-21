@@ -1,5 +1,5 @@
 # ---- Base Node ----
-FROM node:23.5.0-bullseye-slim AS base
+FROM node:latest AS base
 RUN apt-get update
 RUN apt-get install openssl
 LABEL image=tadesf/prisma-studio:latest \
