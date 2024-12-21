@@ -2,8 +2,8 @@
 FROM node:16-bullseye AS base
 RUN apt-get update
 RUN apt-get install openssl
-LABEL image=timothyjmiller/prisma-studio:latest \
-  maintainer="Timothy Miller <tim.miller@preparesoftware.com>" \
+LABEL image=strehk/prisma-studio:latest \
+  maintainer="Tade Strehk<git@strehk.eu>" \
   base=debian
 
 #

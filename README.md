@@ -87,11 +87,3 @@ Each config should have it's own database name (development, testing, and produc
 ## License
 
 This Template is licensed under the GNU General Public License, version 3 (GPLv3).
-
-## Author
-
-Timothy Miller
-
-[View my GitHub profile 💡](https://github.com/timothymiller)
-
-[View my personal website 💻](https://timknowsbest.com)
