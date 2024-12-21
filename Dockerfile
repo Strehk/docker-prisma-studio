@@ -1,5 +1,5 @@
 # ---- Base Node ----
-FROM node:16-bullseye AS base
+FROM node:22-bullseye AS base
 RUN apt-get update
 RUN apt-get install openssl
 LABEL image=tadesf/prisma-studio:latest \
